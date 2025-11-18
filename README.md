@@ -1,4 +1,5 @@
-# Sup! 👋 I'm GsLKS
+# Sup! 👋 I'm João
+- *Aka GsLKS*
 
 ## About Me
 I'm a Front-end/Back-end developer, i make and improve websites, i make some Discord bots and many other applications in NodeJS.
