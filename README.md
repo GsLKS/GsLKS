@@ -4,8 +4,8 @@
 I'm a Front-end/Back-end developer, i make and improve websites, i make some Discord bots and many other applications in NodeJS.
 
 ## Connect with Me
-[![Instagram](https://img.shields.io/badge/-jaum.af-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/jaum.af)](https://instagram.com/jaum.af)
-[![Discord](https://img.shields.io/badge/-gslks-darkblue?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg)](https://discord.gg)
+[![Instagram](https://img.shields.io/badge/-joao.pdr3-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/joao.pdr3)](https://instagram.com/joao.pdr3)
+[![Discord](https://img.shields.io/badge/-jp7s-darkblue?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg)](https://discord.gg)
 
 ## 💻 Languages and Tools
 [![languages](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py)](https://skillicons.dev)
